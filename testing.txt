@@ -3,3 +3,5 @@ main
 testing
 testing2
 how are you
+print(first)
+print(second)
