@@ -3,7 +3,7 @@ main
 testing
 testing2
 how are you
-print(first)
+print(first one)
 print(second)
-print(third)
+print(third one)
 print(fourth)
