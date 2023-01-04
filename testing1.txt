@@ -1,7 +1,0 @@
-new branch
-main
-testing
-testing2
-how are you
-print(first one1)
-print(second)

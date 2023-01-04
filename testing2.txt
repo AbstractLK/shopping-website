@@ -1,9 +1,0 @@
-new branch
-main
-testing
-testing2
-how are you
-print(first)
-print(second)
-print(third one2)
-print(fourth)
